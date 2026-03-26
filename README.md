@@ -1,5 +1,10 @@
-## Hi there 👋
+## Personal Information 
 
+* **Name**-Ayushman Dash 
+* **Registration Number**-25BAS10028
+* **Branch**-Aerospace Engineering 
+* **Current Year**- First year
+* **What I hope to Learn**- I am here to enhance my professional career and to create a eyecatching portfilio. I am here to learn about secure browsing, etiquettes and more.
 <!--
 **ayushman25bas10028-sys/ayushman25bas10028-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
